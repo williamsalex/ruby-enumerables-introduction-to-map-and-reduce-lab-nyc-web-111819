@@ -3,3 +3,6 @@ def map_to_negativize(src)
   until i > src.length
     src[i] = src[i]*-1
   return src
+
+def map_to_no_change(src)
+  
